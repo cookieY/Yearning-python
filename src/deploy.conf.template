@@ -1,0 +1,9 @@
+[mysql]
+db = Yearning
+address = 127.0.0.1
+port = 3306
+username = root
+password =
+
+[host]
+ipaddress = 127.0.0.1:8080

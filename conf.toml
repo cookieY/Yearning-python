@@ -1,0 +1,10 @@
+[Mysql]
+Db = "Yearning"
+Host = "127.0.0.1"
+Port = "3306"
+Password = "19931003"
+User = "root"
+
+[General]
+SecretKey = "dbcjqheupqjsuwsm"
+GrpcAddr = "127.0.0.1:50001"
