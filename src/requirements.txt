@@ -1,6 +1,6 @@
 Django==2.1.5
 django-cors-headers==2.1.0
-djangorestframework==3.7.7
+djangorestframework==3.9.1
 djangorestframework-jwt==1.11.0
 PyMySQL==0.9.2
 sqlparse==0.2.4
